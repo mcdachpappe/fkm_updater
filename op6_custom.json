@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "mcd-kernel OP6/T [custom]",
-    "version": "r4_custom",
-    "link": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845-r2/releases/download/r4/mcd_op6x_r4_custom.zip",
-    "changelog_url": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845-r2/files/6564268/changelog_op6x_r4.txt",
-    "date": "2021-05-29",
-    "sha1": "b276ed5a2d8698d68f92e50320c47f65bff72e39"
+    "version": "r5_custom",
+    "link": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845-r2/releases/download/r5/mcd_op6x_r5_custom.zip",
+    "changelog_url": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845-r2/files/6657441/changelog_op6x_r5.txt",
+    "date": "2021-06-15",
+    "sha1": "ff67901cc3f893aaae3a08a965e3833810bafb07"
   },
   "support": {
     "link": "https://forum.xda-developers.com/t/kernel-oos-custom-mcd-kernel.3931562/"
