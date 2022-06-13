@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "mcd-kernel for OnePlus 6/T",
-    "version": "r16",
-    "link": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845/releases/download/r16/mcd_op6x_r16.zip",
-    "changelog_url": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845/files/8601882/changelog_op6x_r16.txt",
-    "date": "2022-05-02",
-    "sha1": "9940aef578960c14d85583f9addc65a863339ae3"
+    "version": "r17",
+    "link": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845/releases/download/r17/mcd_op6x_r17.zip",
+    "changelog_url": "https://github.com/mcdachpappe/android_kernel_oneplus_sdm845/files/8892515/changelog_op6x_r17.txt",
+    "date": "2022-06-13",
+    "sha1": "b7e435232f5d0c8dfebaee9512f40a56eb1b5f0a"
   },
   "support": {
     "link": "https://forum.xda-developers.com/t/kernel-oos-custom-mcd-kernel.3931562/"
